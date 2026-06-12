@@ -3,8 +3,7 @@
   "compatibility_date": "2025-03-25",
   "compatibility_flags": ["nodejs_compat"],
   "main": "./.output/server/index.mjs",
-  "assets": {
-    "binding": "ASSETS",
-    "directory": "./.output/public"
+  "site": {
+    "bucket": "./.output/public"
   }
 }
